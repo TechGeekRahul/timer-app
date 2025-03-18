@@ -1,4 +1,5 @@
 # Timer App
+Deployed url : https://timer-app-cyan.vercel.app/ 
 
 A React-based timer application that allows users to create, manage, and track multiple timers with categories. The app features a clean, modern interface with both light and dark themes.
 
